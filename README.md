@@ -41,7 +41,7 @@ directly visualising how the Sr–δ¹³C coupling evolves across Cenozoic time 
 |-------|-----------|--------|---------|--------|-------|---------|
 | Full Cenozoic | −0.514 (p<0.001) | −0.507 | [−0.712, −0.304] | 100% | +9.0 | Strong evidence |
 | PETM-exempt | −0.513 (p<0.001) | −0.503 | [−0.710, −0.301] | 100% | +8.2 | Meaningful evidence |
-| Oligocene–Miocene | +0.214 (ns) | +0.202 | [−0.45, +0.85] | ~25% | −0.6 | No evidence |
+| Oligocene–Miocene | +0.214 (ns) | +0.202 | [0.229, +0.631] | ~82% | −0.6 | No evidence |
 
 **Core finding:** The ⁸⁷Sr/⁸⁶Sr–δ¹³C relationship is **time-dependent and
 non-stationary**. A strong negative coupling dominates the full Cenozoic record
